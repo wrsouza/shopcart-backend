@@ -1,0 +1,282 @@
+[
+  {
+    "id": "0f40530c-2c01-41fa-b442-ad438dd12724",
+    "name": "Notebook Dell Inspiron i3501-M10P 15.6” HD 11ª Geração Intel Pentium Gold 4GB 128GB SSD Windows 10 Preto",
+    "price": 2659.05,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-dell-inspiron-i3501-m10p-15-6-hd-11a-geracao-intel-pentium-gold-4gb-128gb-ssd-windows-10-preto/dell/i3501w3111w/f394a0316c3d2c55436ddbacbabe5f2c.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "227f8f75-c834-4f14-bfdc-dbc39fd3596c",
+    "name": "Notebook Asus AMD Ryzen 5 8GB 256GB SSD - 15,6” Windows 10 M515DA-BR1213T",
+    "price": 3254.07,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-asus-amd-ryzen-5-8gb-256gb-ssd-156-windows-10-m515da-br1213t/magazineluiza/233914100/644db93d3d6c4fa268ba613210e9983d.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "4000c604-0b5f-4826-9997-e9e2244d4370",
+    "name": "Notebook Samsung Book Intel Core i3 4GB - 256GB SSD 15,6” Full HD Windows 11 NP550XDA-KV3BR",
+    "price": 2882.07,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-samsung-book-intel-core-i3-4gb-256gb-ssd-156-full-hd-windows-11-np550xda-kv3br/magazineluiza/233394100/a8dcd2d4e938a2b9886dd586531c92a8.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "ac0cc546-a9be-4897-93e6-38ded7234339",
+    "name": "Notebook Gamer Aspire Nitro 5 AN517-52-56PR Intel Core i5 8GB 512GB GTX 1650 SSD 17.3' Full HD - Acer",
+    "price": 6149.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-gamer-aspire-nitro-5-an517-52-56pr-intel-core-i5-8gb-512gb-gtx-1650-ssd-17-3-full-hd-acer/aceroficial/778/39415fefc73e057a1d27c14a80e976f6.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "a44d3f54-6b74-40aa-ad37-65485367d1f4",
+    "name": "Notebook Positivo Motion C Intel Celeron Dual-Core - 4GB 120GB SSD 14” LED Windows 11",
+    "price": 1766.07,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-positivo-motion-c-intel-celeron-dual-core-4gb-120gb-ssd-14-led-windows-11/magazineluiza/232783700/b3d041149c5995a5d51d3aef1337ced4.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "05ac7a02-ca9a-4341-9974-a905b37a9800",
+    "name": "Notebook Acer A515-54G-71WN Intel Core i7 8GB - 512GB SSD 15,6” LED Placa de Vídeo 2GB Windows 10",
+    "price": 5114.07,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-acer-a515-54g-71wn-intel-core-i7-8gb-512gb-ssd-156-led-placa-de-video-2gb-windows-10/magazineluiza/231755700/31f5cde4394d83ccf77ae121a74578f3.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "6441cb45-f2ed-45c0-8ea8-3f172f8e1fea",
+    "name": "Notebook Dell Inspiron i3501-U10P 15.6” HD 11ª Geração Intel Pentium Gold 4GB 128GB SSD Linux Preto",
+    "price": 2991.55,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-dell-inspiron-i3501-u10p-15-6-hd-11a-geracao-intel-pentium-gold-4gb-128gb-ssd-linux-preto/dell/i3501u3111w/f394a0316c3d2c55436ddbacbabe5f2c.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "94f4f998-439a-4133-a2e9-906d866b90cb",
+    "name": "Notebook HP 256 G8 Intel Core i3 8GB 256GB SSD - 15,6” LCD Windows 10",
+    "price": 3068.07,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-hp-256-g8-intel-core-i3-8gb-256gb-ssd-156-lcd-windows-10/magazineluiza/228853300/dc3f62ad89b552f43e74897f0b061d61.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "f3942629-4d26-4fc6-a03d-570beb09fb91",
+    "name": "Notebook Samsung Flash F30 Aquarela 64GB SSD, Memória 4GB, Processador Intel Celeron, Tela 13.3” Full HD",
+    "price": 2693.12,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-samsung-flash-f30-aquarela-64gb-ssd-memoria-4gb-processador-intel-celeron-tela-13-3-full-hd/mastercellcorporate/387p/2d7064cf85f1d50f64125b1d431de13b.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "c410277a-27c9-4a58-8c0c-a8e4333fd1cc",
+    "name": "Notebook Positivo Motion Q464C Intel Atom Quad-Core Windows 10 Home - Cinza",
+    "price": 2149.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/notebook-positivo-motion-q464c-intel-atom-quad-core-windows-10-home-cinza/lojaoficialpositivo2/21643/94ab047379436df82345136fc21f6684.jpg",
+    "categoryId": "86c24bb1-e28a-45fd-8f53-7332ac9d8cd9"
+  },
+  {
+    "id": "4ad953e9-e7a7-4f6b-bab6-ce86c24ce3b5",
+    "name": "Fritadeira Elétrica Air Fryer e Forno Philco Oven 2 em 1 Pfr2200p 12l Preta - 220v",
+    "price": 799.99,
+    "image": "https://a-static.mlcdn.com.br/618x463/fritadeira-eletrica-air-fryer-e-forno-philco-oven-2-em-1-pfr2200p-12l-preta-220v/lojaslebiscuit/2147296195/216afa21e694c07665f42ae0a959774d.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "35662bcc-1b5d-4951-a57f-3b98323f26df",
+    "name": "Fritadeira Elétrica sem Óleo/Air Fryer Nell Smart - Preta 2,4L com Timer",
+    "price": 289.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/fritadeira-eletrica-sem-oleo-air-fryer-nell-smart-preta-24l-com-timer/magazineluiza/222478900/2bad1a94a6d8f75b3f84e6f194680b83.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "20551125-d9f3-4ce5-9bd5-65c554a736eb",
+    "name": "Espremedor de Frutas Mondial E-01 Elétrico - 25W Branco",
+    "price": 59.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/espremedor-de-frutas-mondial-e-01-eletrico-25w-branco/magazineluiza/021801500/6b13ffffeaf88bcb49de4ae9451bf5d4.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "9522c7d1-bade-4e43-be86-be933cd47e64",
+    "name": "Grill Britânia Press Retangular 640W - Antiaderente",
+    "price": 115.81,
+    "image": "https://a-static.mlcdn.com.br/618x463/grill-britania-press-retangular-640w-antiaderente/magazineluiza/020850800/8153e522bbe37f2ddc9b1dc1092bcb98.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "b7bc6810-13f3-4bd5-b77e-fe44978c2cff",
+    "name": "Liquidificador Philco PH900 Preto com Filtro - 12 Velocidades 1200W",
+    "price": 149.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/liquidificador-philco-ph900-preto-com-filtro-12-velocidades-1200w/magazineluiza/021749100/187c83df39d333ecbf91e9f1e23b288e.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "feff5590-2721-406d-b883-1dd3d1a85e3f",
+    "name": "Tapioqueira Crepioca Panquequeira Omelete Elétrica Britania - Britânia",
+    "price": 143.91,
+    "image": "https://a-static.mlcdn.com.br/618x463/tapioqueira-crepioca-panquequeira-omelete-eletrica-britania-britania/lojaskubbooficial/000441/0e3db06356373b37a9fc793c86357c53.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "5a724c82-8e14-494c-917d-5e311cab2d9a",
+    "name": "Kit Inverno Cadence - Aquecedor Lareira e Cafeteira Italiana",
+    "price": 859.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/kit-inverno-cadence-aquecedor-lareira-e-cafeteira-italiana/jcsbrasil/6327/cc935b187c3f9032fe78b7e0a30875b6.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "999ccba2-5573-42d4-acc5-51cd809bb538",
+    "name": "Batedeira Planetária Mondial Preto e Inox 700W - Premium 12 Velocidades",
+    "price": 329.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/batedeira-planetaria-mondial-preto-e-inox-700w-premium-12-velocidades/magazineluiza/021259300/5363602007bfda8d3e247db5de72692f.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "9732715a-6cd9-4793-b22f-e957a7db0cc0",
+    "name": "Bebedouro de Mesa Refrigerado por Compressor - Esmaltec Gelágua EGM30",
+    "price": 509.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/bebedouro-de-mesa-refrigerado-por-compressor-esmaltec-gelagua-egm30/magazineluiza/010322700/c2a0d171b82a76b8b8b59dc73bfb02e3.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "a6c72073-b3cd-4f20-af1f-58f7709cdb2c",
+    "name": "Aspirador de Pó e Água Electrolux 1250W - Acqua Power AQP20",
+    "price": 249.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/aspirador-de-po-e-agua-electrolux-1250w-acqua-power-aqp20/magazineluiza/085865500/8a3346124f2709caf97d80469337c2c0.jpg",
+    "categoryId": "f996ca85-93ec-4a2b-91b0-c5583e8049cf"
+  },
+  {
+    "id": "339d4f4a-499d-4f79-9991-55f33efd3580",
+    "name": "Smartphone Samsung Galaxy A12 64GB Preto 4G - 4GB RAM Tela 6,5” Câm. Quadrupla + Selfie 8MP",
+    "price": 989.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-a12-64gb-preto-4g-4gb-ram-tela-65-cam-quadrupla-selfie-8mp/magazineluiza/232040800/e41381f475fb9774eb11ddcad59268c6.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "801f5786-6d3c-4719-8600-13005b7dc162",
+    "name": "Smartphone Motorola Moto E7 Power 32GB Vermelho - Coral 4G 2GB RAM Tela 6,5” Câm. Dupla + Selfie 5MP",
+    "price": 899.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-e7-power-32gb-vermelho-coral-4g-2gb-ram-tela-65-cam-dupla-selfie-5mp/magazineluiza/155623300/e0bb0cfa049c90c5f412e4390dd01805.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "7b2624d8-e55c-401f-88e6-d582f5536760",
+    "name": "Smartphone Samsung Galaxy A22 128GB Preto 4G - 4GB RAM Tela 6,4” Câm. Quádrupla + Selfie 13MP",
+    "price": 1259.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-a22-128gb-preto-4g-4gb-ram-tela-64-cam-quadrupla-selfie-13mp/magazineluiza/231143600/3cd621180b2ddf660a5a09688932e6c7.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "05484ad5-dfdb-4a70-81a2-088da6952111",
+    "name": "Smartphone Motorola Moto E20 32GB Cinza 4G - 2GB RAM Tela 6,5” Câm. Dupla + Selfie 5MP",
+    "price": 929.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-e20-32gb-cinza-4g-2gb-ram-tela-65-cam-dupla-selfie-5mp/magazineluiza/233853600/6af89294c8b47e4721bc3241d6d57958.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "768563fd-663c-4470-b73a-7744c640a9de",
+    "name": "Smartphone Samsung Galaxy A52 128GB Branco 4G - 6GB RAM Tela 6,5” Câm. Quádrupla + Selfie 32MP",
+    "price": 1979.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-a52-128gb-branco-4g-6gb-ram-tela-65-cam-quadrupla-selfie-32mp/magazineluiza/155624500/c9856f87662ba75f4f93042d90055436.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "60392a7d-6a3b-4a60-90f9-52dbdbd8ecaa",
+    "name": "Smartphone Motorola Moto g20 128GB Verde 4G - 4GB RAM Tela 6,5” Câm. Quadrupla + Câm Selfie 13MP",
+    "price": 1439.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g20-128gb-verde-4g-4gb-ram-tela-65-cam-quadrupla-cam-selfie-13mp/magazineluiza/233853900/71e5355b1fc77b6f6101ca6d08165153.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "498de5d7-21d5-4eab-ad3d-815ffb07566f",
+    "name": "Smartphone Samsung Galaxy S21 Ultra 256GB Prata 5G - 12GB RAM Tela 6,8” Câm. Quádrupla + Selfie 40MP",
+    "price": 5732.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-s21-ultra-256gb-prata-5g-12gb-ram-tela-68-cam-quadrupla-selfie-40mp/magazineluiza/155620900/52ad96b3fa15151fa4be2c747584ad72.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "38dbb110-2831-4729-b952-22ab0cef5202",
+    "name": "Smartphone Motorola Moto G30, 128GB, RAM 4GB, Octa-Core, Câmera Quádrupla, 5000mAh, Dark Prisma",
+    "price": 1469.0,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-motorola-moto-g30-128gb-ram-4gb-octa-core-camera-quadrupla-5000mah-dark-prism-pamk0000br/kabum/154272/8968516980c9ec7e9829194597626f70.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "c135969e-e746-41b4-8207-1460448eaaaf",
+    "name": "Smartphone Samsung Galaxy A52 128GB Azul 4G - 6GB RAM Tela 6,5” Câm. Quádrupla + Selfie 32MP",
+    "price": 1979.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-a52-128gb-azul-4g-6gb-ram-tela-65-cam-quadrupla-selfie-32mp/magazineluiza/155624700/4997a2d477862b8a85a0c650eab7695b.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "3170ca49-a156-4cb2-9215-980ade933130",
+    "name": "Smartphone Samsung Galaxy A32 128GB Violeta 4G - 4GB RAM Tela 6,4” Câm. Quádrupla + Selfie 20MP",
+    "price": 1439.1,
+    "image": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-a32-128gb-violeta-4g-4gb-ram-tela-64-cam-quadrupla-selfie-20mp/magazineluiza/155624100/1595344320db4b74ffa559fcb01a992c.jpg",
+    "categoryId": "ac4dd24f-9800-4815-b9b2-a7ccaf9093c7"
+  },
+  {
+    "id": "f8c3cd0d-2928-4d8b-a909-86f02626d44d",
+    "name": "Blu-Ray Capitão América. Guerra Civil 3D",
+    "price": 39.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/blu-ray-capitao-america-guerra-civil-3d/videoimpacto/604629/98512f6c91a3a9b571257736cb486874.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "62eb95b4-6620-4994-a304-efe148b99e0f",
+    "name": "Blu-Ray John Wick 3 - Parabellum",
+    "price": 64.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/blu-ray-john-wick-3-parabellum/videoimpacto/605374/4094ec9bf541ebfbb6a301df5c81f966.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "90584a09-8fba-4e53-bf10-d140be166454",
+    "name": "Piratas Do Caribe: A Vingança De Salazar 3D (Blu-Ray)",
+    "price": 39.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/piratas-do-caribe-a-vinganca-de-salazar-3d-blu-ray/videoimpacto/604636/5628d87cad4ab48690a27a3c9c41b477.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "c40096b4-bea8-48dc-b759-fab0c973e6c3",
+    "name": "Guardiões Da Galáxia Blu-ray",
+    "price": 37.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/guardioes-da-galaxia-blu-ray/videoimpacto/604544/70a3e33ea174a11f771449a7ebda2c28.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "cae23783-1219-4b45-a72f-ef69ae7be03e",
+    "name": "A Bela E A Fera 3D (Blu-Ray)",
+    "price": 32.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/a-bela-e-a-fera-3d-blu-ray/videoimpacto/604875/e13eae1af119eb7cf2554439da080def.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "7082972a-e580-4b78-8764-1fc0a3363ee5",
+    "name": "Moana Um Mar De Aventuras Blu-ray",
+    "price": 34.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/moana-um-mar-de-aventuras-blu-ray/videoimpacto/603525/dfc9f9e90e5c34fcc731da671bdab269.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "e8b7d96b-1306-4ef4-8d20-ff4c8ac7eef6",
+    "name": "Thor Blu-ray",
+    "price": 39.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/thor-blu-ray/videoimpacto/604536/96ddcc7e87af348f241dec53c59def28.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "487330f3-bfc9-43ca-8969-bd3ad616c979",
+    "name": "Blu-ray Planeta Dos Macacos - A Origem (novo)",
+    "price": 39.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/blu-ray-planeta-dos-macacos-a-origem-novo/videoimpacto/605529/566becdc41bc4aaab97b7768ed7abcd2.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "2f761535-b2b4-41bf-9e96-f95183545743",
+    "name": "Star Wars. O Despertar Da Força Blu-ray",
+    "price": 39.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/star-wars-o-despertar-da-forca-blu-ray/videoimpacto/604737/1ab76741e05ebdcb4a81ab4511738ead.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  },
+  {
+    "id": "ba366eb2-cf23-4e52-88f4-bbd761759a7f",
+    "name": "Blu-Ray Atlantis - Coleção 2 Filmes",
+    "price": 49.9,
+    "image": "https://a-static.mlcdn.com.br/618x463/blu-ray-atlantis-colecao-2-filmes/videoimpacto/605116/206fcb0fee9dcc382addac4753ad26f5.jpg",
+    "categoryId": "21b59926-1017-401d-938f-586474aa330c"
+  }
+]
